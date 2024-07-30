@@ -1,4 +1,4 @@
-unction validatePAN() {
+function validatePAN() {
     const panInput = document.getElementById('pan-input').value.trim();
     const result = document.getElementById('result');
 
